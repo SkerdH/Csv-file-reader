@@ -1,7 +1,7 @@
 <h1>CSV- READER</h1>
 
 <h2>Description</h2>
-Projects consists of a website that allows users to input data through a csv file, and it is then displayed as visual data. The project uses python to construct the backend portion. The code takes in a csv file sorts the data, then displays it using graphs of choice.
+Projects consists of a website that allows users to input data through a csv file, and it is then displayed as visual data. The project uses Python to construct the backend portion. The code takes in a csv file sorts the data, then displays it using graphs of choice.
 The website portion creates a vivid, and interesting display which allows the user to input the data, and sends it to the program. 
 <br />
 
